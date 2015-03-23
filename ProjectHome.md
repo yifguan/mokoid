@@ -1,0 +1,1 @@
+We, Moko365 Inc, was dveloping some examples codes for our Android Framework training courses and consulting service. We are not planning to provide dirty codes. Please give advise on these architect codes.
